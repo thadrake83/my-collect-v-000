@@ -4,5 +4,3 @@ def my_collect(empty_array)
   while i < array.length
   end
 end
-
-
