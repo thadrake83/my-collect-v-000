@@ -1,2 +1,2 @@
-def my_collect(students) do |student|
+def my_collect(students)
 end
